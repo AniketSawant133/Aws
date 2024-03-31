@@ -33,3 +33,6 @@ Password -9422451966@Aniket
 
 Grampedia - AustereModerator
 Pass -Austere123
+
+ID -chetan.badgujar@austere.co.in
+PASS - 9096801866
